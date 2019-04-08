@@ -1,0 +1,7 @@
+Decided to relearn the basics from the Introduction to Programming in Python
+textbook by Robert Sedgewick, Kevin Wayne, and Robert Dondero.
+
+I'm just going to follow through the textbook and do the activities at the end
+of each section. Unfortunately I don't have the solutions to the problems so I
+will just be guessing whether or not I am writing proper code and doing stuff
+correctly.
